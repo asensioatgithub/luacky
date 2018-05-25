@@ -2,4 +2,5 @@
 
 # usage:
 gcc -o objectname main.c input.c flex.c
+
 ./objectname codefilepath 
